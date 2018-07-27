@@ -4,8 +4,8 @@
 //                  (based on source code of coincidence detector)
 // @include       *
 // @grant         GM_getResourceText
-// @resource      catlist (.json file is stored on pc)
-// @homepageURL   none for now
+// @resource      catlist https://github.com/bigabur/CatDetector/blob/master/catdetector.js
+// @homepageURL   https://github.com/bigabur/CatDetector
 // @version       0.1
 // @namespace     none for now
 // @license        WTFPL (Do What the Fuck You Want To Public License)
